@@ -1,0 +1,7 @@
+{
+  "name": "MaxLock Secure Storage",
+  "description": "Premium self-storage solutions with advanced security and digital flexibility.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
